@@ -9,8 +9,7 @@ Data Karkhana is a project focused on building a Hybrid System for file sharing 
 To install and run this project you would need to do the following:
 
 1. Clone the repo: 
-git clone https://github.com/yourusername/data_karkhana.git
-
+git clone https://github.com/timsinashok/data_karkhana.git
 2. Navigate into the project directory: 
 cd data_karkhana, and run main.py script as following: 
 python3 main.py {tracker ip} {tracker port}, and continue with the instructions in the terminal.
